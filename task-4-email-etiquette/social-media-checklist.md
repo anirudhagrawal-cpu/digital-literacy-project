@@ -1,4 +1,5 @@
-Social Media Do’s and Don’ts for College Students
+#Social Media Do’s and Don’ts for College Students
+
 # Do’s
 1) Use social media in a responsible and professional manner. Always remember that your online presence can be seen by teachers, recruiters, and other professionals.
 2) Think carefully before posting anything online. Make sure that the content you share is appropriate and does not harm your reputation or others.
