@@ -75,7 +75,7 @@ Links
 
 Google Form Link: (https://docs.google.com/forms/d/e/1FAIpQLSeWs_ycMe7Qwaui4UlRkt-fKDsZNi5kYP5U21ygMN0l-gCFbQ/viewform?usp=dialog)
 
-GitHub Repository Link:(https://github.com/anirudhagrawal-cpu)
+GitHub Repository Link:(https://github.com/anirudhagrawal-cpu/digital-literacy-project.git)
 
 Learning Outcome
 
