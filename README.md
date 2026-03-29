@@ -1,11 +1,16 @@
 # digital-literacy-project-0001
 
 Name: Anirudh Agrwal
+
 Registration Number: (25MEI10111)
 Branch: Integrated M.Tech CSE (Cyber Security)
+
 Year: 1st Year
+
 University: VIT Bhopal University
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
 
 Project Overview
